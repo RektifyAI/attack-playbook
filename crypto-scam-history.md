@@ -2,7 +2,7 @@
 
 Taxonomy of Common Cryptocurrency Scams
 </br>
-*General cryptocurrency scams that have occurred since the inception of Bitcoin in 2009*
+General cryptocurrency scams that have occurred since the inception of Bitcoin in 2009
 </br>
 -   Exit scams
     -   * The founders of the crypto project runs off with customer and investor money.
