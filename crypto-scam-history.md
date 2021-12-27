@@ -1,4 +1,4 @@
-# Cryptocurrency Scam Taxonomy
+# Cryptocurrency Attack Taxonomy
 
 Taxonomy of Common Cryptocurrency Scams
 </br>
