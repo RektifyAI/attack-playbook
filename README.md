@@ -1,6 +1,6 @@
 # Sena Hack Library
 
-Sena Labs has created a hack library that lists relevant hacks, scams, exploits, and compromises that occur in the cryptocurrency community. We have generalized these events, whether it be cyber or real-world to be attacks.
+Sena Labs has created a hack library that lists relevant hacks, scams, exploits, and compromises that occur in the cryptocurrency community. We have generalized these events, whether it be cyber or real-world to be "attacks", regardless of technical nature.
 
 The imperative need to study the architecture and methodology of attacks within the digital asset arena is up to the user. At Sena Labs we support a DYOR model that incentivizes users to DYOR as you invest and HODL. We hope this Hack Library saves users evitable headaches that emerges in the digital asset arena.
 
@@ -11,5 +11,12 @@ Types of digital assets explored in our Hack Library:
 - NFTs
 - Digital Land
 
-Running dichotomy from Sena Labs:
+DeFi Running dichotomy from Sena Labs:
 > All DeFi tokens are cryptocurrencies, but not all cryptocurrencies are DeFi tokens.
+
+Defintions:
+1. What's an NFT?
+> An NFT is a "non-fungible" token, a digital asset that is unique in its existence that is stored on a blockchain. NFTs can be considered digital art, digital land, or any iten digitized and minted on an NFT marketplace.
+
+3. What is DeFi?
+> DeFi is decentralized finance, an industry created by the collection of traditional finance services that are decentralized.
