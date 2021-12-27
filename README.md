@@ -15,7 +15,10 @@ DeFi Running dichotomy from Sena Labs:
 > All DeFi tokens are cryptocurrencies, but not all cryptocurrencies are DeFi tokens.
 
 Defintions:
-1. What's an NFT?
+1. What is Bitcoin?
+> Bitcoin is a peer-to-peer digital currency that allows for global electronic payments. Bitcoin was launched by anonymous super-coder, Satoshi Nakamoto in 2008.
+
+2. What's an NFT?
 > An NFT is a "non-fungible" token, a digital asset that is unique in its existence that is stored on a blockchain. NFTs can be considered digital art, digital land, or any iten digitized and minted on an NFT marketplace.
 
 3. What is DeFi?
