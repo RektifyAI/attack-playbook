@@ -12,4 +12,4 @@ Types of digital assets explored in our Hack Library:
 - Digital Land
 
 Running dichotomy from Sena Labs:
-> All DeFi tokens are cryptocurrencies, but not all cryptocurrencies are DeFi.
+> All DeFi tokens are cryptocurrencies, but not all cryptocurrencies are DeFi tokens.
