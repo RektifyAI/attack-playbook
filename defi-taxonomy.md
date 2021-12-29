@@ -1,6 +1,6 @@
 # DeFi Token Attack Taxonomy
 
-> Taxonomy for specific Decentralized Finance exploits and hacks
+> Taxonomy for specific exploits and hacks in the Decentralized Finance industry
 
 The following taxonomy displays detailed definitions of all the exploits, hacks, and compromises stored in the Steady State Risk Analysis(RAD). Each exploit has a distinct architecture that makes it unique to the decentralized finance industry. On-chain exploits occur almost consistently in real-time in the DeFi industry; the nomenclature garnered is derived from research and evaluation of DeFi exploits.
 
