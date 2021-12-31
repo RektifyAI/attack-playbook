@@ -22,4 +22,4 @@ Defintions:
 > An NFT is a "non-fungible" token, a digital asset that is unique in its existence and stored on a blockchain. NFTs can be considered digital art, digital land, or any item digitized and minted on a blockchain such as Ethereum, Polygon, Celo, and more.
 
 3. What is DeFi?
-> DeFi is decentralized finance, an industry created by the collection of traditional finance services that are decentralized.
+> DeFi is decentralized finance, an industry created by the collection of traditional finance services that are decentralized using DApps (decentralized applications).
