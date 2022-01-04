@@ -19,6 +19,13 @@ Defintions:
 > Bitcoin is a peer-to-peer digital currency that allows for global electronic payments. Bitcoin was launched by anonymous super-coder, Satoshi Nakamoto in 2008.
 
 2. What are cryptocurrencies?
+> Any digital currency that is not Bitcoin and is fueled by a blockchain is considered a cryptocurrency. 
+> Cryptocurrencies are digital tokens:
+- Payment Tokens
+- Asset Tokens
+- Metaverse Tokens
+- Platform Tokens 
+- Utility Tokens
 
 3.  What's an NFT?
 > An NFT is a "non-fungible" token, a digital asset that is unique in its existence and stored on a blockchain. NFTs can be considered digital art, digital land, or any item digitized and minted on a blockchain such as Ethereum, Polygon, Celo, and more.
