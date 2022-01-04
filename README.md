@@ -18,8 +18,15 @@ Defintions:
 1. What is Bitcoin?
 > Bitcoin is a peer-to-peer digital currency that allows for global electronic payments. Bitcoin was launched by anonymous super-coder, Satoshi Nakamoto in 2008.
 
-2. What's an NFT?
+2. What are cryptocurrencies?
+
+3.  What's an NFT?
 > An NFT is a "non-fungible" token, a digital asset that is unique in its existence and stored on a blockchain. NFTs can be considered digital art, digital land, or any item digitized and minted on a blockchain such as Ethereum, Polygon, Celo, and more.
 
-3. What is DeFi?
+4. What is DeFi?
 > DeFi is decentralized finance, an industry created by the collection of traditional finance services that are decentralized using DApps (decentralized applications).
+
+5. What is Digital Land?
+> 
+
+6. What is the Metaverse?
