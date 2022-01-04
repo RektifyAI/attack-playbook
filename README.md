@@ -6,7 +6,7 @@ The imperative need to study the architecture and methodology of attacks within 
 
 Types of digital assets explored in our Hack Library:
 - Bitcoin
-- Cryptocurrencies (non-DeFi)
+- Cryptocurrencies
 - DeFi tokens
 - NFTs
 - Digital Land
