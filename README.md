@@ -27,13 +27,18 @@ Defintions:
 >- Platform Tokens 
 >- Utility Tokens
 
-3.  What's an NFT?
-> An NFT is a "non-fungible" token, a digital asset that is unique in its existence and stored on a blockchain. NFTs can be considered digital art, digital land, or any item digitized and minted on a blockchain such as Ethereum, Polygon, Celo, and more.
-
-4. What is DeFi?
+3. What is DeFi?
 > DeFi is decentralized finance, an industry created by the collection of traditional finance services that are decentralized using DApps (decentralized applications).
 
+4.  What's an NFT?
+> An NFT is a "non-fungible" token, a digital asset that is unique in its existence and stored on a blockchain. NFTs can be considered digital art, digital land, or any item digitized and minted on a blockchain such as Ethereum, Polygon, Celo, and more.
+
 5. What is Digital Land?
-> 
+> Digital land are virtual plots of land sold in the metaverse for gaming, investing, projects and other purposes.
+> Top Digital Land Platforms
+>- Sandbox
+>- Decentraland
+
 
 6. What is the Metaverse?
+> The virtual world 
