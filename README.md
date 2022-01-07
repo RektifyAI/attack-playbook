@@ -38,6 +38,10 @@ Defintions:
 > Top Digital Land Platforms
 >- Sandbox
 >- Decentraland
+>- ULAND
+>- OVR
+>- SuperWorld
+>- Next Earth
 
 
 6. What is the Metaverse?
