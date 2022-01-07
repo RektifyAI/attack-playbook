@@ -45,4 +45,4 @@ Defintions:
 
 
 6. What is the Metaverse?
-> The virtual world 
+> Virtual world epicenters where avatars can meet up, play games, collaborate, socialize, and more. 
