@@ -12,7 +12,7 @@ Types of digital assets explored in our Attack Library:
 - NFTs
 - Digital Land
 
-Fun Phrase: Running DeFi dichotomy from Sena Labs:
+Running DeFi dichotomy from Sena Labs:
 > All DeFi tokens are cryptocurrencies, but not all cryptocurrencies are DeFi tokens.
 
 Defintions:
