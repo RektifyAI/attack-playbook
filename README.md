@@ -1,7 +1,5 @@
 # Attack Playbook
 
-## Attacks in DeFi: Exploits, Hacks, Scams, Compromises, and more
-
 ### Introduction
 ----
 Sena Labs has created a attack library that lists relevant hacks, scams, exploits, and compromises that occur in the cryptocurrency community. We have generalized these events, whether it be cyber or real-world to be "attacks", regardless of technical nature.
