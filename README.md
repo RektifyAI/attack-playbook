@@ -20,8 +20,8 @@ Defintions:
 > Bitcoin is a peer-to-peer digital currency that allows for global electronic payments. Bitcoin was launched by anonymous super-coder, Satoshi Nakamoto in 2008.
 
 2. What are cryptocurrencies?
-> Any digital currency that is not Bitcoin and is fueled by a blockchain is considered a cryptocurrency. 
-> Cryptocurrencies are digital tokens:
+> Any digital currency whose transacations are stored on a blockchain and is not Bitcoin. 
+> Cryptocurrencies are digital tokens that represent value on the blockchain:
 >- Payment Tokens
 >- Asset Tokens
 >- Metaverse Tokens
