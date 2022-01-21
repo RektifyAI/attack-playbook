@@ -27,6 +27,7 @@ Defintions:
 >- Metaverse Tokens
 >- Platform Tokens 
 >- Utility Tokens
+>- Meme coins
 
 3. What is DeFi?
 > DeFi is decentralized finance, an industry created by the collection of traditional finance services that are decentralized using DApps (decentralized applications).
