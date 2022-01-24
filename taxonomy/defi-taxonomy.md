@@ -1,12 +1,16 @@
 # DeFi Token Attack Taxonomy
 
-> Taxonomy for specific exploit, hacks, and compromises in the Decentralized Finance industry
+> Taxonomy for specific attacks: exploit, hacks, and compromises, in the Decentralized Finance industry
 
-The following taxonomy displays detailed definitions of all the exploits, hacks, and compromises stored in the Steady State Risk Analysis(RAD). Each exploit has a distinct architecture that makes it unique to the decentralized finance industry. On-chain exploits occur almost consistently in real-time in the DeFi industry; the nomenclature garnered is derived from research and evaluation of DeFi exploits.
-
--   **Types of DeFi exploits, hacks, and compromises**
+-   **Types of DeFi attacks**
 
     -   *Rebase Error*
+        - Rebase - The circulating supply of a token is automatically adjusted on a routine basis based on the price fluctuation of the token. The supply is not fixed and will return to it's pegged price dependent on the base level set by the protocol, else the circulating supply will be adjusted instead. 
+
+        - Furthermore, a *rebase error* occurs when the protocol fails to adjust the token supply to the desired level after depegging from its base price. Rebase tokens are commonly known as ["elastic supply tokens"](https://academy.binance.com/en/articles/elastic-supply-tokens-explained) \[5\].
+        - e.g. A [rebase bug](https://cryptopotato.com/yam-developers-reveal-bug-in-rebase-contract/) was found in YAM Finance's protocol by developers in 2020. An excess of YAM tokens were generated after a 10% sell slippage on YAM Finance's parent protocol, Uniswap.
+        
+    -   *DoS Attacks*
         - Rebase - The circulating supply of a token is automatically adjusted on a routine basis based on the price fluctuation of the token. The supply is not fixed and will return to it's pegged price dependent on the base level set by the protocol, else the circulating supply will be adjusted instead. 
 
         - Furthermore, a *rebase error* occurs when the protocol fails to adjust the token supply to the desired level after depegging from its base price. Rebase tokens are commonly known as ["elastic supply tokens"](https://academy.binance.com/en/articles/elastic-supply-tokens-explained) \[5\].
@@ -37,6 +41,10 @@ The following taxonomy displays detailed definitions of all the exploits, hacks,
           - e.g. [New Balancer protocol](https://ciphertrace.com/infinite-minting-exploit-nets-attacker-4-4m/) \[7\], was exploited for $4.4 million USD in a mint exploit attack. The hacker exploited the chain by depositing, then withdrawing funds from the [smart contract](https://etherscan.io/tx/0xf81fb72ee096e0d7afe4b99a55b723110604fb26ec82846043cfc396e1fa79da) and continuously minting rewards.
 
     -   *Infinite Approval*
+        - A smart contract implementation in which the smart contract requires authorization for wallet access to an unlimited number of tokens that are greater than the amount held in the user's wallet.
+         - e.g. In 2020, Bancor discovered an [egregious vulnerability](https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi) \[8\], in the Bancor protocol in which an external hacker could possibly drain funds from user wallets using infinite approval, granting them access to user funds.
+
+    -   *Oracle Manipulation*
         - A smart contract implementation in which the smart contract requires authorization for wallet access to an unlimited number of tokens that are greater than the amount held in the user's wallet.
          - e.g. In 2020, Bancor discovered an [egregious vulnerability](https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi) \[8\], in the Bancor protocol in which an external hacker could possibly drain funds from user wallets using infinite approval, granting them access to user funds.
 
