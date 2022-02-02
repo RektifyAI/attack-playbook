@@ -29,9 +29,10 @@
 
         - e.g. The [largest hack](https://twitter.com/polynetwork2/status/1425073987164381196?lang=en) in DeFi history was a sophisticated smart contract exploit on the [PolyNetwork](https://cointelegraph.com/news/poly-network-hacker-returns-less-than-1-of-the-600m-theft) blockchain \[4\], in August 2021. Hackers were able to compromise the PolyNetwork smart contract holding massive amounts of cryptocurrencies, seizing over $600 million USD worth of investor assets across three chains.
 
-    -   *Flash Loan Attack*
+    -   *Flash Loan Attack* or *Oracle Manipulation*
          - Flash Loan - A decentralized, uncollateralized and unsecured loan typically Ethereum-based. The borrower needs little to no security to receive a flash loan making it highly susceptible for attacks. \[2\]
-         - Flash loan attacks occur when a hacker takes out the flash loan from a lending protocol to perform market manipulation. 
+         - Oracle - An oracle is a third-party service that allows smart contracts within blockchains to receive external data.
+         - Flash loan attacks occur when a hacker takes out the flash loan from a lending protocol to perform market manipulation; in this case an oracle is maniupalted in order to derived money from the exploited smart contract(s).
          - e.g. Pancake Bunny, a Binance Smart Chain protocol, experienced a severe [flash loan attack](https://cointelegraph.com/news/pancakebunny-tanks-96-following-200m-flash-loan-exploit) \[3\], in May 2021, resulting in the token price crashing by > 95%.
 
     -   *Fraud Rug Pull*
@@ -46,9 +47,6 @@
         - A smart contract implementation in which the smart contract requires authorization for wallet access to an unlimited number of tokens that are greater than the amount held in the user's wallet.
          - e.g. In 2020, Bancor discovered an [egregious vulnerability](https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi) \[8\], in the Bancor protocol in which an external hacker could possibly drain funds from user wallets using infinite approval, granting them access to user funds.
 
-    -   *Oracle Manipulation*
-        - A smart contract implementation in which the smart contract requires authorization for wallet access to an unlimited number of tokens that are greater than the amount held in the user's wallet.
-         - e.g. In 2020, Bancor discovered an [egregious vulnerability](https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi) \[8\], in the Bancor protocol in which an external hacker could possibly drain funds from user wallets using infinite approval, granting them access to user funds.
 
 **Works Cited**
 
