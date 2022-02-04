@@ -15,7 +15,7 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
 </br>
 -   Exit scams
     -   * The founders of the crypto project runs off with customer and investor money.
-    -   * e.g. The emergance of OneCoin invented by Ruja Ignatova, ["Cryptoqueen"](https://www.bbc.com/news/stories-50435014) scams millions. Ruja's selling point was convincing people that OneCoin was going to be a "better" Bitcoin.
+    -   * e.g. The emergance of OneCoin invented by Ruja Ignatova, [Cryptoqueen](https://www.bbc.com/news/stories-50435014) scams millions. Ruja's selling point was convincing people that OneCoin was going to be a "better" Bitcoin.
 
 -   Scam ICOs  
     -   * [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) raises money without a legitmate project launch or roadmap. Typically well-known investors are tied to the project's name to get credibility and public trust.
