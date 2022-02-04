@@ -2,14 +2,6 @@
 
 A folder dedicated to taxonomy pages for all digital assets analyzed by Sena Labs.
 
-
-
-
-
-
-
-Taxonomy of Common Cryptocurrency Scams
-----
 </br>
 General cryptocurrency scams that have occurred since the inception of Bitcoin in 2009
 </br>
