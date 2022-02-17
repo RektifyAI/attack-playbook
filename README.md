@@ -18,7 +18,7 @@ Running DeFi dichotomy from Sena Labs:
 
 Defintions:
 1. What is Bitcoin?
-> Bitcoin is a peer-to-peer digital currency that allows for global electronic payments. Bitcoin was launched by anonymous super-coder, Satoshi Nakamoto in 2008.
+> Bitcoin is a peer-to-peer digital currency that allows for electronic payments. Bitcoin was launched by anonymous super-coder, Satoshi Nakamoto in 2008.
 
 2. What are cryptocurrencies?
 > Any digital currency whose transacations are stored on a blockchain and is not Bitcoin. 
