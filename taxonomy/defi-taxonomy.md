@@ -11,10 +11,9 @@
         - e.g. A [rebase bug](https://cryptopotato.com/yam-developers-reveal-bug-in-rebase-contract/) was found in YAM Finance's protocol by developers in 2020. An excess of YAM tokens were generated after a 10% sell slippage on YAM Finance's parent protocol, Uniswap.
         
     -   *DoS Attacks*
-        - DoS Attack - The circulating supply of a token is automatically adjusted on a routine basis based on the price fluctuation of the token. The supply is not fixed and will return to it's pegged price dependent on the base level set by the protocol, else the circulating supply will be adjusted instead. 
+        - DdoS Attack -  distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server
 
-        - Furthermore, a *rebase error* occurs when the protocol fails to adjust the token supply to the desired level after depegging from its base price. Rebase tokens are commonly known as ["elastic supply tokens"](https://academy.binance.com/en/articles/elastic-supply-tokens-explained) \[5\].
-        - e.g. A [rebase bug](https://cryptopotato.com/yam-developers-reveal-bug-in-rebase-contract/) was found in YAM Finance's protocol by developers in 2020. An excess of YAM tokens were generated after a 10% sell slippage on YAM Finance's parent protocol, Uniswap.
+        - e.g. A [Ddos attack]
 
     -   *Smart Contract Exploit*
         - Smart Contract - A digital contract that defines and autonomously implements standards, conditions, and terms of agreements stored on a blockchain. Unlike standard contracts, smart contracts do not require an intermediary such as a lawyer to enforce conditional agreements between parties. 
