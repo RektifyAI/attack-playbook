@@ -1,6 +1,6 @@
 # Attack Taxonomy
 
-A folder dedicated to taxonomy pages for all digital assets analyzed by Sena Labs.
+A repo dedicated to taxonomy pages for all digital assets analyzed by Sena Labs.
 
 </br>
 General cryptocurrency scams that have occurred since the inception of Bitcoin in 2009
