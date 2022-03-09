@@ -24,11 +24,13 @@ Defintions:
 > Any digital currency whose transacations are stored on a blockchain and is not Bitcoin. 
 > Cryptocurrencies are digital tokens that represent value on the blockchain:
 >- Payment Tokens
+>- Non-fungible Tokens
 >- Asset Tokens
 >- Metaverse Tokens
 >- Platform Tokens 
 >- Utility Tokens
 >- Meme coins
+>- Stablecoins
 
 3. What is DeFi?
 > DeFi is decentralized finance, an industry created by the collection of traditional finance services that are decentralized using DApps (decentralized applications).
