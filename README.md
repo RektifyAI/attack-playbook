@@ -5,7 +5,7 @@ Sena Labs has created an attack library that lists relevant hacks, scams, exploi
 
 The imperative need to study the architecture and methodology of attacks within the digital asset arena is up to the user. At Sena Labs we support a DYOR model that incentivizes users to DYOR as you invest and HODL. We hope this Attack Library saves users evitable headaches that emerges with understanding the digital asset arena.
 
-Types of digital assets explored in our Attack Library:
+Types of digital assets explored in our Sena Exploratory Attack Library:
 - Bitcoin
 - Cryptocurrencies
 - DeFi tokens
