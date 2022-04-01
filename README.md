@@ -11,7 +11,7 @@ Types of digital assets explored in our Sena Exploratory Attack Library:
 - DeFi tokens
 - NFTs
 - Digital Land
-- Gaming
+- NFT Gaming
 - Metaverse items
 
 Running DeFi dichotomy from Sena Labs:
