@@ -1,6 +1,6 @@
 # DeFi Token Attack Taxonomy
 
-> Taxonomy for specific attacks: exploit, hacks, and compromises, in the Decentralized Finance industry
+> Attack Taxonomy for specific attacks in the Decentralized Finance 
 
 -   **Types of DeFi attacks**
 
