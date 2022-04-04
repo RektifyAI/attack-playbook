@@ -1,9 +1,9 @@
 # Attack Playbook
 
 ### Introduction
-Sena Labs has created an attack library that lists relevant hacks, scams, exploits, and compromises that occur in the cryptocurrency community. We have generalized these events, whether it be cyber or real-world to be specified as <b> attacks </b>, regardless of technical architecture.
+Sena Labs has supplied an attack playbook that lists relevant hacks, scams, exploits, compromises, and general attacks that occur on Web3 products. We have generalized these events, whether it be cyber or real-world, to be specified as <b> attacks </b>, regardless of architectural nature. 
 
-Sena Labs promotes DYOR("Do your own research"), as the #1 requirement to explore digital assets powered by blockchain; studying the architecture and methodology of attacks within the digital asset arena is up to the user but is strongly recommended. We support a DYOR model that incentivizes users to DYOR as you invest and HODL. We hope this Attack Playbook saves users evitable headaches that emerge from the information overload that comes from learning about the attacks that occur on digital assets.
+Sena Labs promotes DYOR("Do your own research"), as the primary requirement to explore digital assets powered by blockchain; studying the architecture and methodology of attacks within the digital asset arena is up to the user but is strongly recommended. The DYOR model incentivizes users to research relevant risk factors as they invest. We hope that this attack playbook informs users of the risk landscape associate with Web3. Inevitable headaches are the product of information overload that comes from learning about the attacks that occur on digital assets while also learning about the BASICS of the space.
 
 Types of digital assets explored in our Sena Exploratory Attack Library:
 - Bitcoin
