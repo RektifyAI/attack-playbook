@@ -10,8 +10,13 @@
         - Furthermore, a *rebase error* occurs when the protocol fails to adjust the token supply to the desired level after depegging from its base price. Rebase tokens are commonly known as ["elastic supply tokens"](https://academy.binance.com/en/articles/elastic-supply-tokens-explained) \[5\].
         - e.g. A [rebase bug](https://cryptopotato.com/yam-developers-reveal-bug-in-rebase-contract/) was found in YAM Finance's protocol by developers in 2020. An excess of YAM tokens were generated after a 10% sell slippage on YAM Finance's parent protocol, Uniswap.
         
+    -   *DdoS Attacks*
+        - DDoS Attack -  distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server. 
+
+        - e.g. A [Ddos attack]
+
     -   *DoS Attacks*
-        - DdoS Attack -  distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server
+        - DoS Attack -  denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server
 
         - e.g. A [Ddos attack]
 
