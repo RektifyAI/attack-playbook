@@ -10,15 +10,15 @@
         - Furthermore, a *rebase error* occurs when the protocol fails to adjust the token supply to the desired level after depegging from its base price. Rebase tokens are commonly known as ["elastic supply tokens"](https://academy.binance.com/en/articles/elastic-supply-tokens-explained) \[5\].
         - e.g. A [rebase bug](https://cryptopotato.com/yam-developers-reveal-bug-in-rebase-contract/) was found in YAM Finance's protocol by developers in 2020. An excess of YAM tokens were generated after a 10% sell slippage on YAM Finance's parent protocol, Uniswap.
         
-    -   *DdoS Attacks*
-        - DDoS Attack -  distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server. 
+    -   *DDoS Attacks*
+        - DDoS Attack - distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server. DDos attacks are difficult to trace.
 
-        - e.g. A [Ddos attack]
+        - e.g. A [DDos attack]
 
     -   *DoS Attacks*
-        - DoS Attack -  denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server
+        - DoS Attack - denial-of-service (DoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server. DoS attacks are easy to trace.
 
-        - e.g. A [Ddos attack]
+        - e.g. A [DoS attack]
 
     -   *Smart Contract Exploit*
         - Smart Contract - A digital contract that defines and autonomously implements standards, conditions, and terms of agreements stored on a blockchain. Unlike standard contracts, smart contracts do not require an intermediary such as a lawyer to enforce conditional agreements between parties. 
