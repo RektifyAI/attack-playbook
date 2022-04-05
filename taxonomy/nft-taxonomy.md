@@ -1,10 +1,14 @@
-## NFT Scam Taxonomy
+## NFT based Scam Taxonomy
+> 
 
 -   Spoof NFT Website Scam
     -   * Scammers create flash mint websites that mimic official NFT project websites. Most websites are obvious to experienced NFT collectors but other more sophofisticated spoof websites are so professionally created they can pass under the noses of NFT experts.
+    -   *
 
 -   Phishing Attack
-    -   * Scammers send direct messages via social media platforms such as Discord, Twitter, Instagram, and more. 
+    -   * Scammers send malicious direct messages and pop-ups through spoof websites asking for users' private wallet keys or 12-word or 24-word seed phrases. Once the scammer has access to the users private keys, the ownership of the tokens resting on the compromised wallet know belongs to the scammer.
+    -   *
 
 -   Stealth Mint
-    -   * A fake minting scheme to draw attention from NFT interests in order to mint a fake or 0 NFTs in exchange for money.
+    -   * A fake minting scheme to draw attention from NFT interests in order to mint a fake or 0 NFTs in exchange for money. Scammers send malicious direct messages via social media platforms such as Discord, Twitter, Instagram, and more to trick NFT collectors into purchasing these illegitimate NFTs. 
+    -   *
