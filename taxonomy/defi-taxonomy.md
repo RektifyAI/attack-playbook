@@ -1,4 +1,4 @@
-# DeFi Token Attack Taxonomy
+# DeFi Protocol Attack Taxonomy
 
 > Attack Taxonomy for specific attacks in the Decentralized Finance 
 
