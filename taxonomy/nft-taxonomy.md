@@ -1,4 +1,4 @@
-## NFT based Scam Taxonomy
+## NFT-based Attack Taxonomy
 > Attack Taxonomy for specific scams that occur on NFT projects and marketplaces </br>
 Track top NFT projects [here](https://cryptoslam.io) </br>
 -   Spoof NFT Website Scam
