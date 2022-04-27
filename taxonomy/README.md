@@ -39,4 +39,4 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     -   * Clones of real ICO websties made with the scammer's public key instead of the legitimate public key.
     -   * e.g. In 2018, the SEC published a fake ICO website to show investors how easy it is to fall for Spoof ICO websites claiming to offer legitimate cryptocurrency projects. The project was dubbed ["HoweyCoins"](https://www.howeycoins.com/index.html), which claimed to have a 7%-15% annual growth rate.
 
-\[1\] API
+\[1\] APA
