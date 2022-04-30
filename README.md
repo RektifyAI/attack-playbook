@@ -7,6 +7,7 @@ Sena Labs promotes the DYOR "do your own research" model, as the primary require
 
 <iframe title="Embedded cell output" src="https://embed.deepnote.com/2596ab3c-56f4-4d8f-aaa2-b4233803dca4/a06fa411-f3c3-42cf-ac31-ca865ea851ae/45c3d81c332b4597a96c551430b1019c?height=83" height="83" width="500"/>
 
+
 The "DYOR" model incentivizes users to research relevant risk factors as they invest. We hope that this attack playbook informs users of the risk landscape associate with Web3. Inevitable headaches are the product of information overload that comes from learning about the attacks that occur on digital assets while also learning about the BASICS of the space.
 
 Types of digital assets explored in our Sena Exploratory Attack Library(SEAL):
