@@ -10,6 +10,10 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     -   * The founders of the crypto project runs off with customer and investor money.
     -   * e.g. The emergance of OneCoin invented by Ruja Ignatova, [Cryptoqueen](https://www.bbc.com/news/stories-50435014) scams millions. Ruja's selling point was convincing people that OneCoin was going to be a "better" Bitcoin.
 
+-   Spoof Website or Phishing Attack
+    -   * Inpersonation of a company's wensite in order to trick people into submitting confidential information such as usernames, passwords, private keys, etc.
+    -   * e.g. E-mails haveremained the main spreading channel for phishing linkssince 65 % of phishing attacks start by visiting a link received within an e-mail [3](https://www.kaspersky.com/about/press-releases/2012_spam-in-january-2012-love-politics-and-sport)
+
 -   Scam ICOs  
     -   * [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) raises money without a legitmate project launch or roadmap. Typically well-known investors are tied to the project's name to get credibility and public trust.
     -   * e.g. [CentraTech](https://www.financemagnates.com/cryptocurrency/icos/centra-tech-founder-sentenced-to-prison-for-25m-ico-scam/), a cryptocurrency founded in 2017 by Robert Farkas, Sohrab Sharma, and Raymond Trapani was abruptly charged by U.S. authorities. The founders were federally prosecuted by the U.S. Department of Justice for a fraudalent ICO scam which procured over $25 million worth of investor money. The project had 0 viability in attributing to the cryptocurrency ecosystem. The project was advertised by boxer Floyd Mayweather and music producer, DJ Khaled who were fined for participating in the scam ICO scheme.
