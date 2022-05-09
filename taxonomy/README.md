@@ -1,4 +1,4 @@
-# Sena Labs: Attack Taxonomy
+Attack Taxonomy
 
 > A repo dedicated to taxonomy pages for attacks that compromise various digital assets.
 
