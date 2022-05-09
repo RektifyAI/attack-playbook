@@ -1,6 +1,12 @@
 # Attack Playbook
 
 ### Introduction
+
+<!-- image -->
+<p style="text-align:center;">
+  <img src="HEAD BLOCK WHITE.png" alt="" width="700" class="center" style="margin-left: 10px;"/>
+</p>
+
 The attack playbook is a compendium relevant hacks, scams, exploits, and general attacks that occur on Web3 products. We have generalized these events, whether it be cyber or real-world, to be specified as <b> attacks</b>, regardless of architectural nature. An "attack" is a general cybersecurity term to describe an event of a breech on a digital product or platform. Adversarial attacks occur on AI/ML products such as ML models. 
 
 Sena Labs promotes the DYOR "do your own research" model, as the primary requirement to explore digital assets powered by blockchain; studying the architecture and methodology of attacks within the digital asset arena is strongly recommended. 
