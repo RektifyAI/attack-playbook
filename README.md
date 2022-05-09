@@ -2,15 +2,13 @@
 
 ### Introduction
 
+The attack playbook is a compendium relevant hacks, scams, exploits, and general attacks that occur on Web3 products. We have generalized these events, whether it be cyber or real-world, to be specified as <b> attacks</b>, regardless of architectural nature. An "attack" is a general cybersecurity term to describe an event of a breech on a digital product or platform. Adversarial attacks occur on AI/ML products such as ML models. 
+
+Sena Labs promotes the DYOR "do your own research" model, as the primary requirement to explore digital assets powered by blockchain; studying the architecture and methodology of attacks within the digital asset arena is strongly recommended. 
 <!-- image -->
 <p style="text-align:center;">
   <img src="HEAD BLOCK WHITE.png" alt="" width="250" class="center" style="margin-left: 100px;"/>
 </p>
-
-The attack playbook is a compendium relevant hacks, scams, exploits, and general attacks that occur on Web3 products. We have generalized these events, whether it be cyber or real-world, to be specified as <b> attacks</b>, regardless of architectural nature. An "attack" is a general cybersecurity term to describe an event of a breech on a digital product or platform. Adversarial attacks occur on AI/ML products such as ML models. 
-
-Sena Labs promotes the DYOR "do your own research" model, as the primary requirement to explore digital assets powered by blockchain; studying the architecture and methodology of attacks within the digital asset arena is strongly recommended. 
-
 The "DYOR" model incentivizes users to research relevant risk factors as they invest. We hope that this attack playbook informs users of the risk landscape associate with Web3. Inevitable headaches are the product of information overload that comes from learning about the attacks that occur on digital assets while also learning about the BASICS of the space.
 
 Types of digital assets explored in our Sena Exploratory Attack Library(SEAL):
