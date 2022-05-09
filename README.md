@@ -6,7 +6,7 @@ The attack playbook is a compendium relevant hacks, scams, exploits, and general
 
 <!-- image -->
 <p align="center">
-  <img src="HEAD BLOCK WHITE.png" alt="" width="250" class="center" style="margin-left: 100px;"/>
+  <img src="HEAD BLOCK WHITE.png" alt="" width="350" class="center" style="margin-left: 100px;"/>
 </p>
 
 Sena Labs promotes the DYOR "do your own research" model, as the primary requirement to explore digital assets powered by blockchain; studying the architecture and methodology of attacks within the digital asset arena is strongly recommended. 
