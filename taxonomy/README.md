@@ -10,18 +10,6 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     -   * The founders of the crypto project runs off with customer and investor money.
     -   * e.g. The emergance of OneCoin invented by Ruja Ignatova, [Cryptoqueen](https://www.bbc.com/news/stories-50435014) scams millions. Ruja's selling point was convincing people that OneCoin was going to be a "better" Bitcoin.
 
--   Sandwich Attack
-    -   * 
-    -   * e.g. 
-
--   51% Attack
-    -   * 
-    -   * e.g. 
-
--   Phishing Attack
-    -   * 
-    -   * e.g. 
-
 -   Spoof Website
     -   * Inpersonation of a company's wensite in order to trick people into submitting confidential information such as usernames, passwords, private keys, etc.
     -   * e.g. E-mails have remained the main spreading channel for phishing links since 65 % of phishing attacks start by visiting a link received within an e-mail [3](https://www.kaspersky.com/about/press-releases/2012_spam-in-january-2012-love-politics-and-sport)
@@ -54,5 +42,19 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
 -   Spoof ICOs
     -   * Clones of real ICO websties made with the scammer's public key instead of the legitimate public key.
     -   * e.g. In 2018, the SEC published a fake ICO website to show investors how easy it is to fall for Spoof ICO websites claiming to offer legitimate cryptocurrency projects. The project was dubbed ["HoweyCoins"](https://www.howeycoins.com/index.html), which claimed to have a 7%-15% annual growth rate.
+
+
+-   Sandwich Attack
+    -   * 
+    -   * e.g. 
+
+-   51% Attack
+    -   * 
+    -   * e.g. 
+
+-   Phishing Attack
+    -   * 
+    -   * e.g. 
+
 
 \[1\] APA
