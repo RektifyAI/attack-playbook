@@ -56,5 +56,9 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     -   * 
     -   * e.g. 
 
+-   Dusting Attack
+    -   * 
+    -   * e.g. https://www.gemini.com/cryptopedia/crypto-dusting-attack-bitcoin
+
 
 \[1\] APA
