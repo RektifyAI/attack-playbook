@@ -44,16 +44,17 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     -   * e.g. In 2018, the SEC published a fake ICO website to show investors how easy it is to fall for Spoof ICO websites claiming to offer legitimate cryptocurrency projects. The project was dubbed ["HoweyCoins"](https://www.howeycoins.com/index.html), which claimed to have a 7%-15% annual growth rate.
 
 
--   Sandwich Attack
-    -   * 
-    -   * e.g. 
+-   Sandwich Attack (Front-running Attack)
+    -   * A user's transactions are "sandwiched" in between two transactions where the user trades asset X to purchase a large amount of asset Y. The attacker, typically a bot, detects thist large trade by purchasing asset Y before the user's transaction is successful. After the attacker's transaction is successful the price of asset Y increases leading to slippage.
+    -   * Market maker resistance equation: <b> x * y = k </b>
+    -   * e.g. Sandwich attacks tend to be executed via decentralized exchanges. In this excerpt Vitalik Buterin breaksdown the attack in the context of [Uniswap](https://ethresear.ch/t/improving-front-running-resistance-of-x-y-k-market-makers/1281) in 2018.
 
 -   51% Attack
-    -   * 
+    -   * An event where an individual or group controls > 51% of the digital asset's network, mining or validation power. Successful attacker (validators and miners) then control a digital asset's blockchain.
     -   * e.g. 
 
 -   Phishing Attack
-    -   * 
+    -   * Attackers trick users into clicking a delinquent link with the intent to recieve user's personal information such as private keys, addresses, names, and other information that will aid in retrieving stolen funds.
     -   * e.g. 
 
 -   Dusting Attack
