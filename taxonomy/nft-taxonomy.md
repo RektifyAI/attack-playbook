@@ -2,7 +2,7 @@
 > Attack Taxonomy for specific scams that occur on NFT projects and marketplaces </br>
 Track top NFT projects [here](https://cryptoslam.io) </br>
 -   Spoof NFT Website Scam
-    -   * Scammers create flash mint websites that mimic official NFT project websites. Most websites are obvious to experienced NFT collectors but other more sophofisticated spoof websites are so professionally created they can pass under the noses of NFT experts.
+    -   * Scammers create flash mint websites to mimic official NFT project websites. Most websites are obvious to experienced NFT collectors but other more sophofisticated spoof websites are so professionally created they can pass under the noses of NFT experts.
     -   *
 
 -   Phishing Attack
