@@ -6,7 +6,7 @@ Attack Taxonomy
 General cryptocurrency scams that have occurred since the inception of Bitcoin in 2008
 </br>
 
--   Exit scam or Rug Pull
+-   Exit Scam or Rug Pull
     -   * The founders of the crypto project runs off with customer and investor money.
     -   * e.g. The emergance of OneCoin invented by Ruja Ignatova, [Cryptoqueen](https://www.bbc.com/news/stories-50435014) scams millions. Ruja's selling point was convincing people that OneCoin was going to be a "better" Bitcoin.
 
