@@ -51,7 +51,7 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
 
 -   51% Attack
     -   * An event where an individual or group controls > 51% of the digital asset's network, mining or validation power. Successful attacker (validators and miners) then control a digital asset's blockchain.
-    -   * e.g. 
+    -   * e.g. <i> The DAO </i>created by the Ethereum Foundation was hacked by an attack for more than $50 million dollars. This catastrophe led the members of <i> The DAO </i> to deploy a 51% attack to salvage what value they could amid the reckoning.
 
 -   Phishing Attack
     -   * Attackers trick users into clicking a delinquent link with the intent to recieve user's personal information such as private keys, addresses, names, and other information that will aid in retrieving stolen funds.
