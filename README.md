@@ -51,6 +51,7 @@ Defintions:
 > Digital land are virtual plots of land sold in the metaverse for gaming, investing, projects and other purposes.
 > Top Digital Land Platforms:
 >- Sandbox
+>- Spatial
 >- Cryptovoxels
 >- Decentraland
 >- ULAND
