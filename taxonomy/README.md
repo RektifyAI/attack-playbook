@@ -12,7 +12,7 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
 
 -   Spoof Website
     -   * Inpersonation of a company's wensite in order to trick people into submitting confidential information such as usernames, passwords, private keys, etc.
-    -   * e.g. E-mails have remained the main spreading channel for phishing links since 65 % of phishing attacks start by visiting a link received within an e-mail [3](https://www.kaspersky.com/about/press-releases/2012_spam-in-january-2012-love-politics-and-sport)
+    -   * e.g. E-mails have remained the main spreading channel for phishing links since 65% of phishing attacks start by visiting a link received within an e-mail [3](https://www.kaspersky.com/about/press-releases/2012_spam-in-january-2012-love-politics-and-sport)
 
 -   Scam ICOs  
     -   * [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) raises money without a legitmate project launch or roadmap. Typically well-known investors are tied to the project's name to get credibility and public trust.
