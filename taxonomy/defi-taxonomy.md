@@ -33,6 +33,19 @@
 
         - e.g. The [largest hack](https://twitter.com/polynetwork2/status/1425073987164381196?lang=en) in DeFi history was a sophisticated smart contract exploit on the [PolyNetwork](https://cointelegraph.com/news/poly-network-hacker-returns-less-than-1-of-the-600m-theft) blockchain \[4\], in August 2021. Hackers were able to compromise the PolyNetwork smart contract holding massive amounts of cryptocurrencies, seizing over $600 million USD worth of investor assets across three chains.
 
+    -   *Smart Contract Exploits con't*
+         - Forcible Balance Transfer
+         - Unhandled Exceptions
+         - Integer Overflow
+         - Unrestricted Actions
+         - Locked Ether (or compatible cryptocurrency, i.e., Polygon, Cardano, Bitcoin)
+         - Short Address Attack
+         - Overflow Attack
+         - Re-entrancy Attack
+         - Replay Attack
+         - Timejacking
+         - Cryptojacking
+
     -   *Flash Loan Attack* or *Oracle Manipulation*
          - Flash Loan - A decentralized, uncollateralized and unsecured loan typically Ethereum-based. The borrower needs little to no security to receive a flash loan making it highly susceptible for attacks. \[2\]
          - Oracle - An oracle is a third-party service that allows smart contracts within blockchains to receive external data.
