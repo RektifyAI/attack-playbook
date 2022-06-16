@@ -51,6 +51,9 @@
         - A smart contract implementation in which the smart contract requires authorization for wallet access to an unlimited number of tokens that are greater than the amount held in the user's wallet.
          - e.g. In 2020, Bancor discovered an [egregious vulnerability](https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi) \[8\], in the Bancor protocol in which an external hacker could possibly drain funds from user wallets using infinite approval, granting them access to user funds.
 
+    - *Vampire Attack*
+    
+
 
 **Works Cited**
 
