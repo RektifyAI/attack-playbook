@@ -31,6 +31,7 @@ Defintions:
 > Any digital currency whose transacations are stored on a blockchain and is not Bitcoin. 
 > Cryptocurrencies are digital tokens that represent value on the blockchain:
 >- Payment Tokens
+>- Contract Tokens
 >- Currency Tokens
 >- Brand Tokens
 >- Non-fungible Tokens
