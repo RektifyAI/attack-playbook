@@ -6,7 +6,7 @@ Track top NFT projects [here](https://cryptoslam.io) </br>
     -   *
 
 -   Phishing Attack
-    -   * Scammers send malicious direct messages and pop-ups through spoof websites asking for users' private wallet keys or 12-word or 24-word seed phrases. Once the scammer has access to the users private keys, the ownership of the tokens resting on the compromised wallet know belongs to the scammer.
+    -   * Scammers send malicious direct messages and pop-ups through spoof websites asking for users' private wallet keys or 12-word or 24-word seed phrases. Once a scammer has access to the users private keys, the ownership of the tokens resting on the compromised wallet now belong to the scammer.
     -   *
 
 -   Stealth Mint
