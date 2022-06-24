@@ -43,7 +43,6 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     -   * Clones of real ICO websties made with the scammer's public key instead of the legitimate public key.
     -   * e.g. In 2018, the SEC published a fake ICO website to show investors how easy it is to fall for Spoof ICO websites claiming to offer legitimate cryptocurrency projects. The project was dubbed ["HoweyCoins"](https://www.howeycoins.com/index.html), which claimed to have a 7%-15% annual growth rate.
 
-
 -   Sandwich Attack (Front-running Attack)
     -   * A user's transactions are "sandwiched" in between two transactions where the user trades asset X to purchase a large amount of asset Y. The attacker, typically a bot, detects thist large trade by purchasing asset Y before the user's transaction is successful. After the attacker's transaction is successful the price of asset Y increases leading to slippage.
     -   * Market maker resistance equation: <b> x * y = k </b>
