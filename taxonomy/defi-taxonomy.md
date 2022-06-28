@@ -1,6 +1,6 @@
 # DeFi Protocol Attack Taxonomy (dPAT)
 
-> Attack Taxonomy for specific attacks in the Decentralized Finance 
+> Attack Taxonomy for specific attacks in the Decentralized Finance industry
 
 -   **Types of DeFi attacks**
 
