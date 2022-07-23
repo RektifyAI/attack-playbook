@@ -10,7 +10,7 @@ The attack playbook is a compendium of relevant hacks, scams, exploits, and gene
   <img src="10.jpg" alt="" width="400" class="center" style="margin-left: 100px;"/>
 </p>
 </br>
-Sena Labs promotes the DYOR "do your own research" model, as the primary requirement to explore digital assets powered by blockchain; studying the architecture and methodology of attacks within the digital asset arena is strongly recommended. 
+Though Rektify AI promotes the DYOR "do your own research" model, as the primary requirement to explore digital assets powered by blockchain, we are even stronger proponents of safeguard implementation to protect users. The intensive study of architecture and methodology of attacks within the digital asset arena is strongly recommended but research needs to be complemented by development. 
 
 The "DYOR" model incentivizes users to research relevant risk factors as they invest. We hope that this attack playbook informs users of the risk landscape associate with Web3. Inevitable headaches are the product of information overload that comes from learning about the attacks that occur on digital assets while also learning about the BASICS of the space.
 
