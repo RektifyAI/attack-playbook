@@ -26,7 +26,7 @@
 
         - *Smart contract exploits* occur when the contract fails to execute as intended leading to the loss of funds, and in some cases, very severe and unrecoverable losses. 
         
-        - A *smart contract bug* is a vulnerability in a smart contract that causes malfunction in the way the smart contract executes.
+        - A *smart contract bug* is a vulnerability in a smart contract that causes malfunction when a smart contract executes.
         
         - According to Imperial College London researchers \[1\], smart contract vulnerabilities are the precursor to smart contract exploits. Smart contracts can only be exploited if the contracts are deemed to be vulnerable. Vulnerability must be acknowledged by an attacker prior to exploit execution.
                 - Smart contract vulnerabilities include: re-entrancy, unhandled exceptions, locked ether, transaction order dependency, integer overflow, and unrestricted actions.
