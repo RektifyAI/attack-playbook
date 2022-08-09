@@ -23,7 +23,7 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     -   * e.g. Elon Musk, Kanye West, Barack Obama, and Joe Biden impersonators run off with more than $2 million dollars in [Twitter crypto scam](https://www.bbc.com/news/technology-57152924).
     
 -   Romanance Scams
-    -   * Malicious scammers c
+    -   * Malicious scammers leverage dating applications to lure mates into invest in fraudulent cryptocurrency projects. After the victim's money has been recieved the scammer disappears.
     -   * e.g.
     
 -   Fake Hacks
