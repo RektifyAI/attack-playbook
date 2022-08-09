@@ -17,6 +17,13 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
 -   Scam ICOs  
     -   * [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) raises money without a legitmate project launch or roadmap. Typically well-known investors are tied to the project's name to get credibility and public trust.
     -   * e.g. [CentraTech](https://www.financemagnates.com/cryptocurrency/icos/centra-tech-founder-sentenced-to-prison-for-25m-ico-scam/), a cryptocurrency founded in 2017 by Robert Farkas, Sohrab Sharma, and Raymond Trapani was abruptly charged by U.S. authorities. The founders were federally prosecuted by the U.S. Department of Justice for a fraudalent ICO scam which procured over $25 million worth of investor money. The project had 0 viability in attributing to the cryptocurrency ecosystem. The project was advertised by boxer Floyd Mayweather and music producer, DJ Khaled who were fined for participating in the scam ICO scheme.
+
+-   Fake Celebrity Announcements
+    -   * Malicious actors create spoof celebrity pages and hijack social media accounts to encourage fans to invest in fraudulent project.
+    -   * e.g. Elon Musk, Kanye West, Barack Obama, and Joe Biden impersonators run off with more than $2 million dollars in [Twitter crypto scam](https://www.bbc.com/news/technology-57152924).
+    
+-   Romanance Scams
+    -   * 
     
 -   Fake Hacks
     -   * Project gets hacked from an insider who shares profit with the project team.
