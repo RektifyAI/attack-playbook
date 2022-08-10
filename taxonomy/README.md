@@ -1,6 +1,6 @@
 Attack Taxonomy
 
-> A repo dedicated to taxonomy pages for attacks that compromise various blockchain-based digital assets
+> A repo dedicated to taxonomy pages for attacks that compromise various blockchain-based digital assets and their users. This is an elaborate resource for those who would like to get acclimated to the vast risk landscape present in Web3
 
 </br>
 General cryptocurrency scams that have occurred since the inception of Bitcoin in 2008
