@@ -4,7 +4,7 @@
 
 The attack playbook is a compendium of relevant hacks, scams, exploits, and general cyber-attacks that occur on Web3 products. We have generalized these events, whether it be cyber or real-world attacks, to be specified as <b> attacks</b> or "de-adversarial attacks", regardless of architectural nature. An "attack" is a general cybersecurity term to describe an event of a breech on a digital product or platform. Adversarial attacks on ML models such as BERT, GRU, ERNIE, LSTM, RoBERTa, RNNs, GPT-3, and more. 
 
-"De-adversarial" attacks are deployed on blockchain-based products with a centralized characteristics or partial-full decentralized architecture, these include cryptocurrencies, NFTs, DeFi protocols, and digital asset platforms.
+"De-adversarial" attacks are deployed on blockchain-based products with a centralized characteristics or partial-full decentralized architecture, these include cryptocurrencies, NFTs, DeFi protocols, and digital assets.
 
 </br>
 <!-- image -->
