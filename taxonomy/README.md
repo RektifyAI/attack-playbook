@@ -1,6 +1,6 @@
 Attack Taxonomy
 
-> A repo dedicated to taxonomy pages for attacks that compromise various blockchain-based digital assets and their users. This is an elaborate resource for those who would like to get acclimated to the vast risk landscape present in Web3. Here is a list of expanded resources by Consensys: [smart contract vulnerability list](https://consensys.github.io/smart-contract-best-practices/attacks/)
+> A repo dedicated to taxonomy pages for attacks that compromise various blockchain-based digital assets and their users. This is an elaborate resource for those who would like to get acclimated to the vast risk landscape present in Web3. Here is a list of expanded resources by Consensys: [smart contract vulnerability list](https://consensys.github.io/smart-contract-best-practices/attacks/), [DASP](https://dasp.co)
 
 </br>
 General cryptocurrency scams that have occurred since the inception of Bitcoin in 2008
