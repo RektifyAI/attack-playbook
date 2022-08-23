@@ -11,7 +11,7 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     -   * e.g. The emergance of OneCoin invented by Ruja Ignatova, [Cryptoqueen](https://www.bbc.com/news/stories-50435014) scams millions. Ruja's selling point was convincing people that OneCoin was going to be a "better" Bitcoin.
 
 -   Spoof Website
-    -   * Inpersonation of a company's wensite in order to trick people into submitting confidential information such as usernames, passwords, private keys, etc.
+    -   * Impersonation of a company's wensite in order to trick people into submitting confidential information such as usernames, passwords, private keys, etc.
     -   * e.g. E-mails have remained the main spreading channel for phishing links since 65% of phishing attacks start by visiting a link received within an e-mail [3](https://www.kaspersky.com/about/press-releases/2012_spam-in-january-2012-love-politics-and-sport)
 
 -   Scam ICOs  
