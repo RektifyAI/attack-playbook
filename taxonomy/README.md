@@ -65,8 +65,12 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     -   * e.g. 
 
 -   Dusting Attack
-    -   * 
+    -   * A dusting attack occurs when a trace amount of cryptocurrency is sent to hundreds-thousands of random addresses.
     -   * e.g. https://www.gemini.com/cryptopedia/crypto-dusting-attack-bitcoin
+    
+-   Fake Audit Scam
+    -   * Project lies about recieving smart contract audits from credible audtiors
+    -   * e.g. https://twitter.com/slowmist_team/status/1569955566646337536?s=46&t=Zu4tkHVYTnFU6yYKGy5O1w
 
 
 \[1\] APA
