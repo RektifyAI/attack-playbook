@@ -13,6 +13,7 @@ The attack playbook is a compendium of relevant hacks, scams, exploits, and gene
 </br>
 Though Rektify AI promotes the DYOR "do your own research" model, as the primary requirement to explore digital assets powered by blockchain, we are even stronger proponents of safeguards and security tooling to protect users. These implementations are infused with a just as powerful emerging technology as blockchain, machine learning, the edge, and more. The intensive study of architecture and methodology of attacks within the blockchain industry is strongly recommended but research needs to be complemented by development. 
 <br>
+
 The "DYOR" model incentivizes users to research relevant risk factors as they invest. We hope that this attack playbook informs users of the risk landscape associate with Web3. Inevitable headaches are the product of information overload that comes from learning about the attacks that occur on digital assets while also learning about the BASICS of the space.
 
 Types of digital assets explored in our Rektify Exploratory Attack Library(REAL):
