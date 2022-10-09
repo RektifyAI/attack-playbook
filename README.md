@@ -23,7 +23,7 @@ Types of digital assets explored in our Rektify Exploratory Attack Library(REAL)
 - NFTs
 - Digital Land
 - NFT Gaming
-- Metaverse items
+- Metaverse tokens
 
 Running DeFi dichotomy from Sena Labs:
 > All DeFi tokens are cryptocurrencies, but not all cryptocurrencies are DeFi tokens.
