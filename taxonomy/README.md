@@ -24,7 +24,7 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
     
 -   Romanance Scams
     -   * Malicious scammers leverage dating applications to lure mates into invest in fraudulent cryptocurrency projects. After the victim's money has been recieved the scammer disappears.
-    -   * e.g.
+    -   * e.g. Sarrah Rose, relationship coach said a man she connected with on a dating app tried to dupe her out of $50,000 in a cryptocurrency scam.
     
 -   Fake Hacks
     -   * Project gets hacked from an insider who shares profit with the project team.
