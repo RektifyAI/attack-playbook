@@ -62,7 +62,7 @@ General cryptocurrency scams that have occurred since the inception of Bitcoin i
 
 -   Phishing Attack
     -   * Attackers trick users into clicking a delinquent link with the intent to recieve user's personal information such as private keys, addresses, names, and other information that will aid in retrieving stolen funds.
-    -   * e.g. 
+    -   * e.g. BadgerDAO experiences phishing attack Dec 2021 due to a malicious injected snippet into a Badger application via Cloudflare.
 
 -   Dusting Attack
     -   * A dusting attack occurs when a trace amount of cryptocurrency is sent to hundreds-thousands of random addresses. Attackers minscule amounts of coins to users' crypto wallets to detemine the identity of the respective individual or organization behind a crypto wallet owner.
