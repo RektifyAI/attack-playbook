@@ -10,7 +10,7 @@ Here are some Ethereum smart contract best practices: [resources](https://consen
 </br>
 <!-- image -->
 <p align="center">
-  <img src="1-2.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
+  <img src="1-2-3.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
 </p>
 </br>
 Though Rektify AI promotes the DYOR "do your own research" model, as the primary requirement to explore digital assets powered by blockchain, we are even stronger proponents of safeguards and security tooling to protect users. These implementations are infused with a just as powerful emerging technology as blockchain, machine learning, the edge, and more. The intensive study of architecture and methodology of attacks within the blockchain industry is strongly recommended but research needs to be complemented by development. 
