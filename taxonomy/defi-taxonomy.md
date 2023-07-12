@@ -13,7 +13,7 @@
     -   *DDoS Attacks*
         - DDoS Attack - distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server. DDos attacks are difficult to trace.
 
-        - e.g. [DDos attack]
+        - e.g. On Wednesday, April 27th, Cloudflare, an American internet security company, announced that it had successfully blocked a massive Distributed Denial of Service (DDoS) attack against one of its customers, a cryptocurrency launchpad. The attack, which occurred in early April, reached a peak volume of 15.3 million requests per second. The targeted platform is used to showcase DeFi projects to potential investors.
 
     -   *DoS Attacks*
         - DoS Attack - denial-of-service (DoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the network's server. DoS attacks are easy to trace.
