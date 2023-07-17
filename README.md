@@ -34,25 +34,15 @@ Defintions:
 > Bitcoin is a peer-to-peer digital currency system that allows for global payments. Bitcoin was launched by anonymous developer, Satoshi Nakamoto in 2008.
 
 2. What are cryptocurrencies?
-> Any digital currency whose transacations are stored on a blockchain and is not Bitcoin. 
+> Any digital currency whose transactions are stored on a blockchain and is not Bitcoin. 
 > Cryptocurrencies are digital tokens that represent value on the blockchain:
->- Payment Tokens
->- Contract Tokens
->- Currency Tokens
->- Brand Tokens
->- Non-fungible Tokens
->- Asset Tokens
->- Metaverse Tokens
->- Platform Tokens 
->- Utility Tokens
->- Meme coins
->- Stablecoins
->- Security Tokens
 
-| Command  Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+|  | <b> Token Types <b> |  |
+| --- | --- | --- | 
+| Payment Tokens | Contract Tokens | Currency Tokens |
+| Brand Tokens | Non-fungible Tokens | Asset Tokens |
+| Metaverse Tokens| Platform Tokens  | Utility Tokens |
+| Meme coins | Stablecoins | Security Tokens |
 
 3. What is DeFi?
 > DeFi is decentralized finance, an industry created by the collection of traditional finance services that are decentralized using DApps (decentralized applications).
