@@ -31,7 +31,7 @@ Running DeFi dichotomy from Rektify AI:
 
 Defintions:
 1. What is Bitcoin?
-> Bitcoin is a peer-to-peer digital currency system that allows for global payments. Bitcoin was launched by anonymous super-coder, Satoshi Nakamoto in 2008.
+> Bitcoin is a peer-to-peer digital currency system that allows for global payments. Bitcoin was launched by anonymous developer, Satoshi Nakamoto in 2008.
 
 2. What are cryptocurrencies?
 > Any digital currency whose transacations are stored on a blockchain and is not Bitcoin. 
