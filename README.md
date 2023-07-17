@@ -49,6 +49,9 @@ Defintions:
 >- Stablecoins
 >- Security Tokens
 
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 3. What is DeFi?
 > DeFi is decentralized finance, an industry created by the collection of traditional finance services that are decentralized using DApps (decentralized applications).
 
