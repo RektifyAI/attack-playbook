@@ -65,8 +65,17 @@
          - e.g. In 2020, Bancor discovered an [egregious vulnerability](https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi) \[8\], in the Bancor protocol in which an external hacker could possibly drain funds from user wallets using infinite approval, granting them access to user funds.
 
     - *Vampire Attack*
-    
+       - A malicous event that is typically the result of a fork of an orginal project exists to drain assets from the old project. It results in poor liquidity to affected projects and can often down right
+         bankupt a project.
+       - e.g Dash fell victim to wave after wave of vampire attacks after it coined the masternode concept to add more blockchain tools. Later, masternode projects including PivX, SmartCash, ZCoin, Dash Diamond, and more either forked and modified Dash or copied its functionality to compete with it.
 
+    - *Liquidity Theft*
+      - This is typically when a token or token creators extract all of the coins from a crypto liquidity pool. This liquidity pool can often contain assets such as NFTS or Tokens.
+      - e.g. In 2020, an attacker targeted WETH, and switched between it and STA. Borowing 23 million, from which they proceeded to drain the liquidity pool.Draining the balance untill it was next to nothing.
+
+    - *Limiting Selling Rug Pull*
+      -  This is when investors may attempt to fool their victims by placing limiting selling orders. Because of the way the tokens are coded, they can only be sold by the creator. Then, once the price gets to a sufficent point, they sell the assets and leave a worthless token.
+      -  e.g. A limited token airdrop of a token based on Squid Game. The token would later surge after it's launch but it's creators would later dissappear. As well the tokens value. 
 
 **Works Cited**
 
@@ -85,3 +94,5 @@
 \[7\] [Jake](https://ciphertrace.com/author/jake/), "Infinite Minting Exploit Nets Attacker $4.4M", CipherTrace, December 30, 2020. [Online]. Available: https://ciphertrace.com/infinite-minting-exploit-nets-attacker-4-4m/
 
 \[8\] A. Shevchenko, "Bancor’s Bug Exposes Dangerously Common Practice in Ethereum DeFi", CoinTelegraph, June 23, 2020. [Online]. Available: https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi
+
+ \[9\] Phillips, Daniel, “What Are Vampire Attacks in Crypto?” CoinMarketCap, CoinMarketCap, 2mo ago, https://coinmarketcap.com/alexandria/article/what-are-vampire-attacks-in-crypto
