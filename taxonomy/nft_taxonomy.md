@@ -13,3 +13,5 @@ Track top NFT projects [here](https://cryptoslam.io) </br>
 -   Stealth Mint
     -   * A fake minting scheme to draw attention from NFT interests in the attempt to lowing to mint a fake or 0 NFTs in exchange for money. Scammers send malicious direct messages via social media platforms such as Discord, Twitter, Instagram, and more to trick NFT collectors into purchasing these illegitimate NFTs. 
     -   *
+-   Supply Chain Attacks
+    -    * An attack that relies upon malicous or vulnerable code and uses the trust of third party code. This can affect software and hardware wallets. 
