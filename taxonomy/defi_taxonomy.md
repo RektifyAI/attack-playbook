@@ -3,7 +3,15 @@
 > Attack taxonomy for specific attacks in the Decentralized Finance industry
 
 -   **Types of Decentralized Finance Attacks**
-    - * Re-entrancy Exploit (5 types) *
+
+
+    -   *Reentrancy Exploit (5 types)*
+            - Read-only Reentrancy
+            - Single function Reentrancy
+            - Cross-Chain Reentrancy
+            - Cross-function Reentrancy
+            - Cross-Contract Reentrancy
+        
     -   *Rebase Error*
         - Rebase - The circulating supply of a token is automatically adjusted on a routine basis based on the price fluctuation of the token. The supply is not fixed and will return to it's pegged price dependent on the base level set by the protocol, else the circulating supply will be adjusted instead. 
 
