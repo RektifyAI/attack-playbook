@@ -85,8 +85,38 @@
 
     - *Limiting Selling Rug Pull*
       -  This is when investors may attempt to fool their victims by placing limiting selling orders. Because of the way the tokens are coded, they can only be sold by the creator. Then, once the price gets to a sufficent point, they sell the assets and leave a worthless token.
-      -  e.g. A limited token airdrop of a token based on Squid Game. The token would later surge after it's launch but it's creators would later dissappear. As well the tokens value. 
+      -  e.g. A limited token airdrop of a token based on Squid Game. The token would later surge after it's launch but it's creators would later dissappear. As well the tokens value.
 
+   - *Bad Randomness*
+     - This typically refers to when code in a smart contract uses psuedorandomness in a poor or vunlnerable way. This is because the blockchain does not provide any cryptographically secure source of randomness.
+   
+   - *Integer Overflow*
+       - Integer Overflow occurs when a varible or assignable value goes outside of the range of numbers that can bea ssigned to it. In some cases allowing arbitary code or data to be executed.
+
+   - *Race Conditon*
+      -  Typically in a contract there is a gap between where a transaction is created and the moment it is approved in the block chain. This can be exploited in order to benefit the attacker. 
+   
+   - *Forced Ether Contract*
+      - Sometimes contracts can be forced to receive ether without triggering any code. This can often break or be used to exploit code, such as a malicously crafted contract used to force send ether via a suicide method. 
+   
+   - *Unchecked External Call*
+      - Some calls in Solidity are external, needing the devoplper of the contract needs to verify if they succeed. If they fail, but remain unchecked the contract will continue but could lead to exploitable and buggy behaviour. 
+   
+   - *Unprotected Functions*
+      - A missing or improperly declared function with incorrect scope could lead to data leakage or unpredictable behavior. Allowing the attacker to use unintended contract behavior.
+   
+   - *Variable Shadowing*
+      - This vulneribality/bug happens when a variable within the inner scope has the same name as a variable in the outer scope.This can often lead to information leakage and unintended behavior within the contract. 
+   
+   - *Incorrect Interface within a Contract*
+       - Sometimes, the type signature of the functions defined in a contract interface does not match the one in the implementation, leading to the creation of two distinct method ids. Therefore, the fallback method will be triggered when the interface is invoked. Resulting in unintended behavior.
+  
+   - *Wrong Constructor within a Contract*
+       - This occurs when a constructor is not declared as a named constructor, as a result it is run within the bytecode rather than a constructor. 
+   
+   - Rentrancy Attack
+     - After a contract calls ``state.value``, a state varirble can change it's state. An attacker can use a fallback function to keep executing the vulnerable function resulting in the contract automatically transfering ether.
+       
 **Works Cited**
 
 \[1\] D. Perez, B. Livshits, "Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited", USENIX, Aug. 2021. [Online]. Available: https://www.usenix.org/system/files/sec21summer_perez.pdf
