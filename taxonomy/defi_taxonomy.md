@@ -9,6 +9,7 @@
 
 
           - Read-only Reentrancy </br>
+              - An occurance in which the view function in a smart contract is reentered. The state of the contract is not modified during a read-only reentrancy exploit
           - Single function Reentrancy </br>
           - Cross-Chain Reentrancy </br>
           - Cross-function Reentrancy </br>
