@@ -10,10 +10,14 @@
 
           - Read-only Reentrancy </br>
               - An occurance in which the view function in a smart contract is reentered. The state of the contract is not modified during a read-only reentrancy exploit.
-          - Single function Reentrancy </br>
+          - Single function Reentrancy </br> 
+             - An occurance when the vulnerable function is the same function the attacker is trying to recursively call.     
           - Cross-Chain Reentrancy </br>
+             - This attack occurs when a contract is on multiple chains and uses a bridge to connect these chains. An attacker can then exploit the logic of the contract in order to create multiple copies of an NFT and make it a fungible token by copying it on multiple chains.
           - Cross-function Reentrancy </br>
+             - This attack happenswhen two or more functions share the same state variable but update it insecurely or not in a clean fashion.
           - Cross-Contract Reentrancy </br>
+              -This attack happens when a state is updated and called in another contract before it is updated. Often these contracts share state variables, but don't update them in a secure way.
         
     -   *Rebase Error*
         - Rebase - The circulating supply of a token is automatically adjusted on a routine basis based on the price fluctuation of the token. The supply is not fixed and will return to it's pegged price dependent on the base level set by the protocol, else the circulating supply will be adjusted instead. 
