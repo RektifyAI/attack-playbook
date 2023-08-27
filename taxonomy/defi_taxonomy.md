@@ -72,7 +72,7 @@
          - e.g. [Compounder Finance](https://www.coindesk.com/tech/2020/12/02/108m-stolen-developers-implicated-in-alleged-smart-contract-rug-pull/) \[6\], garnered over $10 million USD in investors funds in 2020. Project developers claimed the project to be a replica of Harvest and Yearn Finance farming protocols, but it ended up being a sham. 
 
     -   *Mint Exploit*
-          - A malicious event where a smart contract is broken to mintexcess tokens leading to hacker seizure of tokens and rewards (% yield).
+          - A malicious event where a smart contract is broken to mint excess tokens leading to hacker seizure of tokens and rewards (% yield).
           - e.g. [New Balancer protocol](https://ciphertrace.com/infinite-minting-exploit-nets-attacker-4-4m/) \[7\], was exploited for $4.4 million USD in a mint exploit attack. The hacker exploited the chain by depositing, then withdrawing funds from the [smart contract](https://etherscan.io/tx/0xf81fb72ee096e0d7afe4b99a55b723110604fb26ec82846043cfc396e1fa79da) and continuously minting rewards.
 
     -   *Infinite Approval*
@@ -119,9 +119,17 @@
    - *Wrong Constructor within a Contract*
        - This occurs when a constructor is not declared as a named constructor, as a result it is run within the bytecode rather than a constructor. 
    
-   - Rentrancy Attack
+   - *Rentrancy Attack*
      - After a contract calls ``state.value``, a state varirble can change it's state. An attacker can use a fallback function to keep executing the vulnerable function resulting in the contract automatically transfering ether.
-       
+  
+   - *Signature Replay Attack*
+       - In this attack, an attacker intercepts a signed transaction and resends it on another network where the transaction was not intended to be valid. Making the signature for lack of a better word spoofed.
+   
+   - Signature Verification Exploit 
+      - In this attack, an attacker will exploit a flaw inside of the smart contracts signature protocol. Allowing falsified signatures to be used in smart contracts. 
+   
+   - Uncontrolled Delgate Call
+      - This vulnerabillity revolves arround incorrect usage of the delagate call function in solididty. Allowing the attacker to execute arbitrary code.      
 **Works Cited**
 
 \[1\] D. Perez, B. Livshits, "Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited", USENIX, Aug. 2021. [Online]. Available: https://www.usenix.org/system/files/sec21summer_perez.pdf
