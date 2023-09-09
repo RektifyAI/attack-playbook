@@ -4,7 +4,7 @@
 Track top NFT projects [here](https://cryptoslam.io) </br>
 -   Spoof NFT Website Scam
     -   * Scammers create flash mint websites to mimic official NFT project websites. Most websites are obvious to experienced NFT collectors but other more sophofisticated spoof websites are so professionally created they can pass under the noses of NFT experts.
-    -   *
+    -   *Typically this happens through social media sites such as X(Twitter). These are known as fake airdrops and can lead to a wallet drainer.
 
 -   Phishing Attack
     -   * Scammers send malicious direct messages and pop-ups through spoof websites asking for users' private wallet keys or 12-word or 24-word seed phrases. Once a scammer has access to the users private keys, the ownership of the tokens resting on the compromised wallet now belong to the scammer.
