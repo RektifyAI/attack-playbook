@@ -17,7 +17,7 @@
           - Cross-function Reentrancy </br>
              - This attack happenswhen two or more functions share the same state variable but update it insecurely or not in a clean fashion.
           - Cross-Contract Reentrancy </br>
-              -This attack happens when a state is updated and called in another contract before it is updated. Often these contracts share state variables, but don't update them in a secure way.
+              - This attack happens when a state is updated and called in another contract before it is updated. Often these contracts share state variables, but don't update them in a secure way.
         
     -   *Rebase Error*
         - Rebase - The circulating supply of a token is automatically adjusted on a routine basis based on the price fluctuation of the token. The supply is not fixed and will return to it's pegged price dependent on the base level set by the protocol, else the circulating supply will be adjusted instead. 
