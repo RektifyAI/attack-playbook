@@ -16,7 +16,7 @@ Track top NFT projects [here](https://cryptoslam.io) </br>
 -   Supply Chain Attacks
     -    * An attack that relies upon malicous or vulnerable code and uses the trust of third party code. This can affect software and hardware wallets. 
 
--   Man in the Middle attacks '
+-   Man in the Middle attacks 
     -   * A man in the middle attack will typically occur when an attacker intercepts the comunications between the target and network service. Most commonly it is used to intercept unecrypted traffic from trusted blockchain sites and steal a users private key.
 
 -  Front Running Attacks
