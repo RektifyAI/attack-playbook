@@ -8,11 +8,13 @@ Track top NFT projects [here](https://cryptoslam.io) </br>
 
 -   Phishing Attack
     -   * Scammers send malicious direct messages and pop-ups through spoof websites asking for users' private wallet keys or 12-word or 24-word seed phrases. Once a scammer has access to the users private keys, the ownership of the tokens resting on the compromised wallet now belong to the scammer.
-    -   *
+
+-   Fake NFT Airdrop
+    -   * An attack that permeates on social media sites such as X(Twitter) and others that offers an airdrop of a spoof NFT project. The fake NFT airdrop requires the victim to connect their wallet to a site which thus drains their wallet after recieving approvals from the victim.
 
 -   Stealth Mint
     -   * A fake minting scheme to draw attention from NFT interests in the attempt to lowing to mint a fake or 0 NFTs in exchange for money. Scammers send malicious direct messages via social media platforms such as Discord, Twitter, Instagram, and more to trick NFT collectors into purchasing these illegitimate NFTs. 
-    -   *
+      
 -   Supply Chain Attacks
     -    * An attack that relies upon malicous or vulnerable code and uses the trust of third party code. This can affect software and hardware wallets. 
 
@@ -27,4 +29,7 @@ Track top NFT projects [here](https://cryptoslam.io) </br>
 
 - Token ID Spoofing
     -    * Token spoofing will typically happen when the unique Token ID of an NFT is spoofed in order to trick a target into buying a fake NFT. This will often lead to the fake NFT being priced higher in order to squeeze out more money from the victim.
+     
+- Fake Discord bot
+    -    * Trick users into sending cryptocurrency to “mint” fake NFTs via a fake Discord bot which is often times a replica of a legitimate NFT project.
 
