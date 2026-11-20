@@ -29,7 +29,7 @@ Types of digital assets explored in our Rektify Exploratory Attack Library(REAL)
 - Metaverse tokens
 
 Running DeFi dichotomy from Rektify AI:
-> "All DeFi tokens are cryptocurrencies, but not all cryptocurrencies are DeFi tokens."
+> "All DeFi tokens are cryptocurrencies/digital assets, but not all cryptocurrencies are DeFi tokens."
 
 Definitions:
 1. What is Bitcoin?
